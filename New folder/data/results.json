@@ -1,0 +1,482 @@
+[
+    {
+        "candidate_id": 1,
+        "candidate_name": "Anita Sharma",
+        "title": "AI Research Intern",
+        "organization": "IIT Delhi",
+        "location": "Delhi",
+        "score": 0.92
+    },
+    {
+        "candidate_id": 1,
+        "candidate_name": "Anita Sharma",
+        "title": "AI Product Intern",
+        "organization": "Google",
+        "location": "Bangalore",
+        "score": 0.35
+    },
+    {
+        "candidate_id": 1,
+        "candidate_name": "Anita Sharma",
+        "title": "Law Intern",
+        "organization": "High Court",
+        "location": "Delhi",
+        "score": 0.21
+    },
+    {
+        "candidate_id": 2,
+        "candidate_name": "Rahul Verma",
+        "title": "Marketing Intern",
+        "organization": "Unilever",
+        "location": "Mumbai",
+        "score": 0.97
+    },
+    {
+        "candidate_id": 2,
+        "candidate_name": "Rahul Verma",
+        "title": "Civil Engineering Intern",
+        "organization": "L&T",
+        "location": "Mumbai",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 2,
+        "candidate_name": "Rahul Verma",
+        "title": "Journalism Intern",
+        "organization": "Times of India",
+        "location": "Mumbai",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 3,
+        "candidate_name": "Pooja Singh",
+        "title": "Environment Intern",
+        "organization": "WWF India",
+        "location": "Bhopal",
+        "score": 0.95
+    },
+    {
+        "candidate_id": 3,
+        "candidate_name": "Pooja Singh",
+        "title": "Data Analyst Intern",
+        "organization": "Infosys",
+        "location": "Bangalore",
+        "score": 0.35
+    },
+    {
+        "candidate_id": 3,
+        "candidate_name": "Pooja Singh",
+        "title": "Agriculture Intern",
+        "organization": "ICAR",
+        "location": "Patna",
+        "score": 0.23
+    },
+    {
+        "candidate_id": 4,
+        "candidate_name": "Arjun Das",
+        "title": "IoT Intern",
+        "organization": "TCS",
+        "location": "Kolkata",
+        "score": 1.02
+    },
+    {
+        "candidate_id": 4,
+        "candidate_name": "Arjun Das",
+        "title": "Robotics Intern",
+        "organization": "ISRO",
+        "location": "Ahmedabad",
+        "score": 0.13
+    },
+    {
+        "candidate_id": 4,
+        "candidate_name": "Arjun Das",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 5,
+        "candidate_name": "Meena Gupta",
+        "title": "NGO Support Intern",
+        "organization": "SaveTheChildren",
+        "location": "Jaipur",
+        "score": 0.79
+    },
+    {
+        "candidate_id": 5,
+        "candidate_name": "Meena Gupta",
+        "title": "Social Media Intern",
+        "organization": "Zomato",
+        "location": "Delhi",
+        "score": 0.23
+    },
+    {
+        "candidate_id": 5,
+        "candidate_name": "Meena Gupta",
+        "title": "Civil Engineering Intern",
+        "organization": "L&T",
+        "location": "Mumbai",
+        "score": 0.2
+    },
+    {
+        "candidate_id": 6,
+        "candidate_name": "Vikram Mehra",
+        "title": "Finance Intern",
+        "organization": "HDFC Bank",
+        "location": "Delhi",
+        "score": 0.89
+    },
+    {
+        "candidate_id": 6,
+        "candidate_name": "Vikram Mehra",
+        "title": "Law Intern",
+        "organization": "High Court",
+        "location": "Delhi",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 6,
+        "candidate_name": "Vikram Mehra",
+        "title": "Social Media Intern",
+        "organization": "Zomato",
+        "location": "Delhi",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 7,
+        "candidate_name": "Neha Kapoor",
+        "title": "Journalism Intern",
+        "organization": "Times of India",
+        "location": "Mumbai",
+        "score": 0.77
+    },
+    {
+        "candidate_id": 7,
+        "candidate_name": "Neha Kapoor",
+        "title": "Content Writing Intern",
+        "organization": "Byju's",
+        "location": "Remote",
+        "score": 0.23
+    },
+    {
+        "candidate_id": 7,
+        "candidate_name": "Neha Kapoor",
+        "title": "NGO Support Intern",
+        "organization": "SaveTheChildren",
+        "location": "Jaipur",
+        "score": 0.12
+    },
+    {
+        "candidate_id": 8,
+        "candidate_name": "Amit Sinha",
+        "title": "Data Analyst Intern",
+        "organization": "Infosys",
+        "location": "Bangalore",
+        "score": 0.89
+    },
+    {
+        "candidate_id": 8,
+        "candidate_name": "Amit Sinha",
+        "title": "Environment Intern",
+        "organization": "WWF India",
+        "location": "Bhopal",
+        "score": 0.31
+    },
+    {
+        "candidate_id": 8,
+        "candidate_name": "Amit Sinha",
+        "title": "AI Product Intern",
+        "organization": "Google",
+        "location": "Bangalore",
+        "score": 0.22
+    },
+    {
+        "candidate_id": 9,
+        "candidate_name": "Sanya Iyer",
+        "title": "Law Intern",
+        "organization": "High Court",
+        "location": "Delhi",
+        "score": 0.89
+    },
+    {
+        "candidate_id": 9,
+        "candidate_name": "Sanya Iyer",
+        "title": "AI Research Intern",
+        "organization": "IIT Delhi",
+        "location": "Delhi",
+        "score": 0.3
+    },
+    {
+        "candidate_id": 9,
+        "candidate_name": "Sanya Iyer",
+        "title": "Agriculture Intern",
+        "organization": "ICAR",
+        "location": "Patna",
+        "score": 0.12
+    },
+    {
+        "candidate_id": 10,
+        "candidate_name": "Karan Patel",
+        "title": "Teaching Intern",
+        "organization": "Khan Academy",
+        "location": "Remote",
+        "score": 0.78
+    },
+    {
+        "candidate_id": 10,
+        "candidate_name": "Karan Patel",
+        "title": "Journalism Intern",
+        "organization": "Times of India",
+        "location": "Mumbai",
+        "score": 0.15
+    },
+    {
+        "candidate_id": 10,
+        "candidate_name": "Karan Patel",
+        "title": "HR Intern",
+        "organization": "Accenture",
+        "location": "Gurgaon",
+        "score": 0.13
+    },
+    {
+        "candidate_id": 11,
+        "candidate_name": "Ritika Nair",
+        "title": "Healthcare Intern",
+        "organization": "Apollo Hospitals",
+        "location": "Chennai",
+        "score": 0.86
+    },
+    {
+        "candidate_id": 11,
+        "candidate_name": "Ritika Nair",
+        "title": "Robotics Intern",
+        "organization": "ISRO",
+        "location": "Ahmedabad",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 11,
+        "candidate_name": "Ritika Nair",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 12,
+        "candidate_name": "Sameer Khan",
+        "title": "Cybersecurity Intern",
+        "organization": "Wipro",
+        "location": "Hyderabad",
+        "score": 0.87
+    },
+    {
+        "candidate_id": 12,
+        "candidate_name": "Sameer Khan",
+        "title": "Robotics Intern",
+        "organization": "ISRO",
+        "location": "Ahmedabad",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 12,
+        "candidate_name": "Sameer Khan",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 13,
+        "candidate_name": "Nidhi Agarwal",
+        "title": "HR Intern",
+        "organization": "Accenture",
+        "location": "Gurgaon",
+        "score": 0.97
+    },
+    {
+        "candidate_id": 13,
+        "candidate_name": "Nidhi Agarwal",
+        "title": "Robotics Intern",
+        "organization": "ISRO",
+        "location": "Ahmedabad",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 13,
+        "candidate_name": "Nidhi Agarwal",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 14,
+        "candidate_name": "Prashant Roy",
+        "title": "AI Product Intern",
+        "organization": "Google",
+        "location": "Bangalore",
+        "score": 0.71
+    },
+    {
+        "candidate_id": 14,
+        "candidate_name": "Prashant Roy",
+        "title": "AI Research Intern",
+        "organization": "IIT Delhi",
+        "location": "Delhi",
+        "score": 0.39
+    },
+    {
+        "candidate_id": 14,
+        "candidate_name": "Prashant Roy",
+        "title": "Data Analyst Intern",
+        "organization": "Infosys",
+        "location": "Bangalore",
+        "score": 0.19
+    },
+    {
+        "candidate_id": 15,
+        "candidate_name": "Anjali Kumari",
+        "title": "Agriculture Intern",
+        "organization": "ICAR",
+        "location": "Patna",
+        "score": 0.88
+    },
+    {
+        "candidate_id": 15,
+        "candidate_name": "Anjali Kumari",
+        "title": "Data Analyst Intern",
+        "organization": "Infosys",
+        "location": "Bangalore",
+        "score": 0.18
+    },
+    {
+        "candidate_id": 15,
+        "candidate_name": "Anjali Kumari",
+        "title": "Environment Intern",
+        "organization": "WWF India",
+        "location": "Bhopal",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 16,
+        "candidate_name": "Deepak Joshi",
+        "title": "Social Media Intern",
+        "organization": "Zomato",
+        "location": "Delhi",
+        "score": 1.02
+    },
+    {
+        "candidate_id": 16,
+        "candidate_name": "Deepak Joshi",
+        "title": "Content Writing Intern",
+        "organization": "Byju's",
+        "location": "Remote",
+        "score": 0.17
+    },
+    {
+        "candidate_id": 16,
+        "candidate_name": "Deepak Joshi",
+        "title": "Law Intern",
+        "organization": "High Court",
+        "location": "Delhi",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 17,
+        "candidate_name": "Rohit Sen",
+        "title": "Civil Engineering Intern",
+        "organization": "L&T",
+        "location": "Mumbai",
+        "score": 0.92
+    },
+    {
+        "candidate_id": 17,
+        "candidate_name": "Rohit Sen",
+        "title": "Marketing Intern",
+        "organization": "Unilever",
+        "location": "Mumbai",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 17,
+        "candidate_name": "Rohit Sen",
+        "title": "Journalism Intern",
+        "organization": "Times of India",
+        "location": "Mumbai",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 18,
+        "candidate_name": "Isha Malhotra",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.8
+    },
+    {
+        "candidate_id": 18,
+        "candidate_name": "Isha Malhotra",
+        "title": "AI Product Intern",
+        "organization": "Google",
+        "location": "Bangalore",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 18,
+        "candidate_name": "Isha Malhotra",
+        "title": "Data Analyst Intern",
+        "organization": "Infosys",
+        "location": "Bangalore",
+        "score": 0.1
+    },
+    {
+        "candidate_id": 19,
+        "candidate_name": "Shubham Yadav",
+        "title": "Content Writing Intern",
+        "organization": "Byju's",
+        "location": "Remote",
+        "score": 0.92
+    },
+    {
+        "candidate_id": 19,
+        "candidate_name": "Shubham Yadav",
+        "title": "Journalism Intern",
+        "organization": "Times of India",
+        "location": "Mumbai",
+        "score": 0.36
+    },
+    {
+        "candidate_id": 19,
+        "candidate_name": "Shubham Yadav",
+        "title": "Social Media Intern",
+        "organization": "Zomato",
+        "location": "Delhi",
+        "score": 0.12
+    },
+    {
+        "candidate_id": 20,
+        "candidate_name": "Aryan Mishra",
+        "title": "Robotics Intern",
+        "organization": "ISRO",
+        "location": "Ahmedabad",
+        "score": 0.83
+    },
+    {
+        "candidate_id": 20,
+        "candidate_name": "Aryan Mishra",
+        "title": "Content Writing Intern",
+        "organization": "Byju's",
+        "location": "Remote",
+        "score": 0.0
+    },
+    {
+        "candidate_id": 20,
+        "candidate_name": "Aryan Mishra",
+        "title": "Graphic Design Intern",
+        "organization": "Adobe",
+        "location": "Bangalore",
+        "score": 0.0
+    }
+]

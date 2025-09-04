@@ -1,0 +1,585 @@
+title	organization	location	requirements
+AI Research Intern	IIT Delhi	Delhi	Python, Machine Learning, Research
+Marketing Intern	Unilever	Mumbai	SEO, Digital Marketing, Communication
+Environment Intern	WWF India	Bhopal	Research, Data Analysis, Environmental Science
+IoT Intern	TCS	Kolkata	IoT, Arduino, Sensors
+NGO Support Intern	SaveTheChildren	Jaipur	Community Work, Reporting
+Finance Intern	HDFC Bank	Delhi	Finance, Accounting, Excel
+Journalism Intern	Times of India	Mumbai	Writing, Reporting, Communication
+Data Analyst Intern	Infosys	Bangalore	Python, SQL, Data Analysis
+Law Intern	High Court	Delhi	Legal Research, Documentation
+Teaching Intern	Khan Academy	Remote	Math, Science, Communication
+Healthcare Intern	Apollo Hospitals	Chennai	Biology, Healthcare, Reporting
+Cybersecurity Intern	Wipro	Hyderabad	Networking, Security, Linux
+HR Intern	Accenture	Gurgaon	HR, Communication, Recruitment
+AI Product Intern	Google	Bangalore	Python, AI, Product Thinking
+Agriculture Intern	ICAR	Patna	Farming, Research, Data Collection
+Social Media Intern	Zomato	Delhi	Social Media, Content Creation
+Civil Engineering Intern	L&T	Mumbai	Civil Engg, AutoCAD, Project Work
+Graphic Design Intern	Adobe	Bangalore	Photoshop, Illustrator, Creativity
+Content Writing Intern	Byju's	Remote	Writing, Content Development
+Robotics Intern	ISRO	Ahmedabad	Robotics, C++, Sensors
+PMIS Intern	PMIS Solutions Pvt Ltd 21	Delhi	MS Project, Excel, PMO Support
+Project Controls Intern	PrimePMO 22	Mumbai	Primavera P6, Cost Control, EVM
+PMIS Reporting Intern	InfraPMO Services 23	Bangalore	Power BI, SQL, Dashboarding
+PMIS Data Integration Intern	ProjectSphere 24	Hyderabad	ETL, SQL, Data Modeling
+Project Management Intern (PMIS)	ProjectEdge 25	Chennai	Stakeholder Management, Gantt, MS Project
+PMO Analyst Intern	PMO Solutions 26	Pune	Resource Planning, Reporting, Excel
+Project Controls & PMIS Intern	Synergy PMIS 27	Kolkata	Primavera P6, Risk Management, EVM
+PMIS Implementation Intern	Nexus PMIS 28	Ahmedabad	Configuration, SharePoint, Jira
+PMIS QA Intern	Atlas PMIS Pvt Ltd 29	Jaipur	Testing, QA, Requirements Analysis
+PMIS Dashboard Intern	Orion PMIS 30	Lucknow	Power BI, DAX, SQL
+PMIS Automation Intern	Vector PMIS 31	Bhopal	Scripting, Python, API Integration
+EVM & PMIS Intern	Apex PMIS Consulting 32	Patna	EVM, Cost Forecasting, MS Project
+PMIS Business Analyst Intern	BluePeak PMIS 33	Chandigarh	BPMN, Requirements Gathering, Excel
+PMIS Support Intern	Cognify PMIS 34	Gurgaon	User Support, Documentation, Confluence
+PMIS Data Engineer Intern	Delta PMIS Systems 35	Noida	SQL, ETL, Data Warehousing
+PMIS Testing Intern	Echelon PMIS 36	Kochi	Test Plans, QA Automation, Jira
+PMIS Configuration Intern	Fusion PMIS 37	Thiruvananthapuram	System Configuration, SharePoint, SQL
+PMIS Migration Intern	GigaPMIS 38	Surat	Data Migration, ETL, Validation
+PMIS & Primavera Intern	Helix PMIS 39	Vadodara	Primavera P6, Scheduling, Risk Analysis
+PMIS Power BI Intern	Iris PMIS 40	Nagpur	Power BI, Dashboard Design, SQL
+PMIS Intern	Zenith PMIS 41	Indore	MS Project, Excel, Reporting
+Project Controls Intern	Quantum PMIS 42	Dehradun	Cost Control, EVM, Primavera P6
+PMIS Reporting Intern	Pinnacle PMIS 43	Mangalore	Power BI, SQL, Data Visualization
+PMIS Data Integration Intern	Summit PMIS 44	Ranchi	ETL, APIs, Data Mapping
+Project Management Intern (PMIS)	Keystone PMIS 45	Bhubaneswar	Stakeholder Coordination, Gantt, MS Project
+PMO Analyst Intern	Stratus PMIS 46	Guwahati	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	Aurora PMIS 47	Shillong	Risk Register, EVM, Primavera P6
+PMIS Implementation Intern	Solstice PMIS 48	Goa	Deployment, User Training, Confluence
+PMIS QA Intern	Navigator PMIS 49	Remote	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	Crest PMIS 50	Delhi	Power BI, Data Modeling, DAX
+PMIS Automation Intern	Vertex PMIS 51	Mumbai	Automation Scripts, Python, APIs
+EVM & PMIS Intern	Harbor PMIS 52	Bangalore	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	Bridge PMIS 53	Hyderabad	Process Mapping, Requirements, Excel
+PMIS Support Intern	Pulse PMIS 54	Chennai	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasWorks PMIS 55	Pune	Data Pipelines, SQL, ETL
+PMIS Testing Intern	Core PMIS 56	Kolkata	System Testing, Automation, Jira
+PMIS Configuration Intern	Orbit PMIS 57	Ahmedabad	Customization, Config Management, SharePoint
+PMIS Migration Intern	VectorWorks PMIS 58	Jaipur	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	Horizon PMIS 59	Lucknow	Primavera P6, Scheduling, Baseline Management
+PMIS Power BI Intern	Clarity PMIS 60	Bhopal	Power BI, Visualization, SQL
+PMIS Intern	Element PMIS 61	Patna	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitEdge PMIS 62	Chandigarh	Cost Reports, EVM, Primavera
+PMIS Reporting Intern	Nucleus PMIS 63	Gurgaon	Power BI, SQL, Report Automation
+PMIS Data Integration Intern	Converge PMIS 64	Noida	API Integration, ETL, Data Mapping
+Project Management Intern (PMIS)	Beacon PMIS 65	Kochi	Project Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	VectorPrime PMIS 66	Thiruvananthapuram	Resource Allocation, Reporting, Excel
+Project Controls & PMIS Intern	NorthStar PMIS 67	Surat	Schedule Risk, EVM, Primavera P6
+PMIS Implementation Intern	BlueWave PMIS 68	Vadodara	Implementation, User Acceptance, Confluence
+PMIS QA Intern	Redwood PMIS 69	Nagpur	QA Processes, Test Automation, Jira
+PMIS Dashboard Intern	Skyline PMIS 70	Indore	Power BI, Reports, Dashboarding
+PMIS Automation Intern	InfraTech PMIS 71	Dehradun	Automation, Python, API
+EVM & PMIS Intern	Metro PMIS 72	Mangalore	EVM, Cost Analysis, MS Project
+PMIS Business Analyst Intern	Grid PMIS 73	Ranchi	Process Design, Documentation, Excel
+PMIS Support Intern	OnePMIS 74	Bhubaneswar	User Support, Training, Knowledge Base
+PMIS Data Engineer Intern	DataPMIS Labs 75	Guwahati	Data Modeling, ETL, SQL
+PMIS Testing Intern	Alpha PMIS 76	Shillong	Test Automation, QA, Jira
+PMIS Configuration Intern	BlueCore PMIS 77	Goa	Configuration, Admin Tasks, SharePoint
+PMIS Migration Intern	PrimeWorks PMIS 78	Remote	Migration Strategy, ETL, Validation
+PMIS & Primavera Intern	ProjectGrid PMIS 79	Delhi	Primavera P6, Schedule Optimization, Risk
+PMIS Power BI Intern	Insight PMIS 80	Mumbai	Power BI, DAX, Visualization
+PMIS Intern	Axis PMIS 81	Bangalore	MS Project, Reporting, Excel
+Project Controls Intern	Layer PMIS 82	Hyderabad	Budgeting, EVM, Primavera
+PMIS Reporting Intern	Cascade PMIS 83	Chennai	SSRS, Power BI, SQL
+PMIS Data Integration Intern	Flow PMIS 84	Pune	ETL Tools, APIs, Data Quality
+Project Management Intern (PMIS)	HarborEdge PMIS 85	Kolkata	Project Planning, Communication, Gantt
+PMO Analyst Intern	OrbitWorks PMIS 86	Ahmedabad	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	Terra PMIS 87	Jaipur	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	Nova PMIS 88	Lucknow	Rollout, Training, Confluence
+PMIS QA Intern	Portal PMIS 89	Bhopal	QA Testing, Bug Tracking, Jira
+PMIS Dashboard Intern	VectorData PMIS 90	Patna	Power BI, Dashboard Maintenance, SQL
+PMIS Automation Intern	Stream PMIS 91	Chandigarh	Automation, Python, Scripting
+EVM & PMIS Intern	ElementWorks PMIS 92	Gurgaon	EVM, Cost Baseline, Forecasting
+PMIS Business Analyst Intern	Spectrum PMIS 93	Noida	Requirements Analysis, BPMN, Excel
+PMIS Support Intern	HelpPMIS 94	Kochi	Client Support, Troubleshooting, Documentation
+PMIS Data Engineer Intern	DataBridge PMIS 95	Thiruvananthapuram	ETL, SQL, Data Integration
+PMIS Testing Intern	TestBed PMIS 96	Surat	Functional Testing, Automation, Jira
+PMIS Configuration Intern	ConfigWorks PMIS 97	Vadodara	Admin, Configuration, User Roles
+PMIS Migration Intern	Transition PMIS 98	Nagpur	Cutover Planning, ETL, Validation
+PMIS & Primavera Intern	SchedulePro PMIS 99	Indore	Primavera P6, Baseline, Delay Analysis
+PMIS Power BI Intern	ReportWorks PMIS 100	Dehradun	Power BI, KPI Design, SQL
+PMIS Intern	Track PMIS 101	Mangalore	MS Project, PMO Support, Excel
+Project Controls Intern	CoreWorks PMIS 102	Ranchi	Cost Management, EVM, Reporting
+PMIS Reporting Intern	DataVista PMIS 103	Bhubaneswar	Power BI, Report Development, SQL
+PMIS Data Integration Intern	Link PMIS 104	Guwahati	API, ETL, Data Mapping
+Project Management Intern (PMIS)	Pilot PMIS 105	Shillong	Project Coordination, Gantt, Stakeholders
+PMO Analyst Intern	Align PMIS 106	Goa	PMO Processes, Scheduling, Excel
+Project Controls & PMIS Intern	Construct PMIS 107	Remote	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	Implementa PMIS 108	Delhi	System Setup, Training, Documentation
+PMIS QA Intern	Verify PMIS 109	Mumbai	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	DashPro PMIS 110	Bangalore	Power BI, Visualization, DAX
+PMIS Automation Intern	AutoPMIS 111	Hyderabad	Scripting, RPA Basics, Python
+EVM & PMIS Intern	CostCore PMIS 112	Chennai	EVM, Cost Tracking, MS Project
+PMIS Business Analyst Intern	ProcessPMIS 113	Pune	Business Analysis, Requirements, BPMN
+PMIS Support Intern	ClientCare PMIS 114	Kolkata	User Support, Documentation, Training
+PMIS Data Engineer Intern	Pipeline PMIS 115	Ahmedabad	ETL, SQL, Data Pipelines
+PMIS Testing Intern	QAWorks PMIS 116	Jaipur	Test Execution, Automation, Jira
+PMIS Configuration Intern	Admin PMIS 117	Lucknow	Configuration, Permissions, SharePoint
+PMIS Migration Intern	Shift PMIS 118	Bhopal	Data Migration, ETL, Reconciliation
+PMIS & Primavera Intern	Scheduler PMIS 119	Patna	Primavera P6, Schedule Health Checks, Risk
+PMIS Power BI Intern	Visual PMIS 120	Chandigarh	Power BI, Data Modeling, SQL
+PMIS Intern	Matrix PMIS 121	Gurgaon	MS Project, Reporting, PMO Support
+Project Controls Intern	Forge PMIS 122	Noida	Budget Control, EVM, Primavera P6
+PMIS Reporting Intern	Illume PMIS 123	Kochi	Power BI, Report Automation, DAX
+PMIS Data Integration Intern	Sync PMIS 124	Thiruvananthapuram	Data Sync, ETL, API Integration
+Project Management Intern (PMIS)	HarborPoint PMIS 125	Surat	Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	AlignWorks PMIS 126	Vadodara	Resource Mgmt, Reporting, Excel
+Project Controls & PMIS Intern	Stone PMIS 127	Nagpur	Schedule Recovery, EVM, Primavera
+PMIS Implementation Intern	Deploy PMIS 128	Indore	Deployment, Configuration, User Training
+PMIS QA Intern	Assure PMIS 129	Dehradun	QA, Defect Tracking, Jira
+PMIS Dashboard Intern	Focus PMIS 130	Mangalore	Power BI, Visualization, KPI
+PMIS Automation Intern	AutoCore PMIS 131	Ranchi	Automation, Python, Scripts
+EVM & PMIS Intern	Budget PMIS 132	Bhubaneswar	EVM, Forecast, Cost Mgmt
+PMIS Business Analyst Intern	InsightWorks PMIS 133	Guwahati	Analysis, Documentation, BPMN
+PMIS Support Intern	SupportNet PMIS 134	Shillong	User Assistance, Training, Docs
+PMIS Data Engineer Intern	CoreData PMIS 135	Goa	ETL, Data Modeling, SQL
+PMIS Testing Intern	Check PMIS 136	Remote	Testing, QA Processes, Jira
+PMIS Configuration Intern	SetUp PMIS 137	Delhi	Config Management, Permissions, SharePoint
+PMIS Migration Intern	Relocate PMIS 138	Mumbai	Migration Plans, ETL, Testing
+PMIS & Primavera Intern	Chrono PMIS 139	Bangalore	Primavera P6, Schedule Analysis, Risk
+PMIS Power BI Intern	Reveal PMIS 140	Hyderabad	Power BI, Report Development, SQL
+PMIS Intern	Nimble PMIS 141	Chennai	MS Project, Excel, Reporting
+Project Controls Intern	VectorPrime PMIS 142	Pune	Cost Control, EVM, Primavera
+PMIS Reporting Intern	ClearView PMIS 143	Kolkata	Power BI, KPI Tracking, SQL
+PMIS Data Integration Intern	BridgeWorks PMIS 144	Ahmedabad	ETL, API, Data Quality
+Project Management Intern (PMIS)	PilotWorks PMIS 145	Jaipur	Planning, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	CorePMO 146	Lucknow	PMO Support, Reporting, Excel
+Project Controls & PMIS Intern	Constructive PMIS 147	Bhopal	Schedule Mgmt, EVM, Primavera P6
+PMIS Implementation Intern	Rollout PMIS 148	Patna	Implementation, User Onboarding, Confluence
+PMIS QA Intern	Inspect PMIS 149	Chandigarh	Testing, QA, Jira
+PMIS Dashboard Intern	DataCraft PMIS 150	Gurgaon	Power BI, Visualization, DAX
+PMIS Automation Intern	Bot PMIS 151	Noida	Automation, Python, APIs
+EVM & PMIS Intern	CostWorks PMIS 152	Kochi	EVM, Cost Reports, MS Project
+PMIS Business Analyst Intern	Analytica PMIS 153	Thiruvananthapuram	Requirements, BPMN, Excel
+PMIS Support Intern	Assist PMIS 154	Surat	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	ETLPro PMIS 155	Vadodara	ETL, SQL, Data Integration
+PMIS Testing Intern	QAPro PMIS 156	Nagpur	Test Cases, Automation, Jira
+PMIS Configuration Intern	ConfigPro PMIS 157	Indore	System Config, Admin, SharePoint
+PMIS Migration Intern	Switch PMIS 158	Dehradun	Migration, ETL, Reconciliation
+PMIS & Primavera Intern	PlanWorks PMIS 159	Mangalore	Primavera P6, Schedule Mgmt, Risk
+PMIS Power BI Intern	Insightful PMIS 160	Ranchi	Power BI, Dashboards, SQL
+PMIS Intern	AxisCore PMIS 161	Bhubaneswar	MS Project, PMO Reporting, Excel
+Project Controls Intern	ForgeWorks PMIS 162	Guwahati	EVM, Budgeting, Primavera
+PMIS Reporting Intern	DataLens PMIS 163	Shillong	Power BI, Report Design, SQL
+PMIS Data Integration Intern	SyncWorks PMIS 164	Goa	Data Integration, ETL, API
+Project Management Intern (PMIS)	Guide PMIS 165	Remote	Project Coordination, Gantt, Stakeholder Comm.
+PMO Analyst Intern	Hub PMIS 166	Delhi	PMO Admin, Reporting, Excel
+Project Controls & PMIS Intern	Builder PMIS 167	Mumbai	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	SetupWorks PMIS 168	Bangalore	Implementation, Training, Confluence
+PMIS QA Intern	Quality PMIS 169	Hyderabad	QA Testing, Bug Tracking, Jira
+PMIS Dashboard Intern	DashLine PMIS 170	Chennai	Power BI, Visuals, DAX
+PMIS Automation Intern	Script PMIS 171	Pune	Scripting, Python, Automation
+EVM & PMIS Intern	Forecast PMIS 172	Kolkata	EVM, Forecasting, Cost Control
+PMIS Business Analyst Intern	Blueprint PMIS 173	Ahmedabad	Requirements, Process Flows, Excel
+PMIS Support Intern	HelpDesk PMIS 174	Jaipur	User Support, Documentation, Training
+PMIS Data Engineer Intern	DataCraft PMIS 175	Lucknow	ETL, Warehousing, SQL
+PMIS Testing Intern	TestPro PMIS 176	Bhopal	Automation, QA, Jira
+PMIS Configuration Intern	AdminWorks PMIS 177	Patna	Config, Roles, Permissions
+PMIS Migration Intern	Migrate PMIS 178	Chandigarh	Data Migration, Validation, ETL
+PMIS & Primavera Intern	Planner PMIS 179	Gurgaon	Primavera P6, Float Analysis, Scheduling
+PMIS Power BI Intern	Visualize PMIS 180	Noida	Power BI, KPI Building, SQL
+PMIS Intern	ProjectPulse PMIS 181	Kochi	MS Project, PMO Assistance, Excel
+Project Controls Intern	Capital PMIS 182	Thiruvananthapuram	Cost Reports, EVM, Primavera
+PMIS Reporting Intern	ClarityWorks PMIS 183	Surat	Power BI, Reporting, DAX
+PMIS Data Integration Intern	PipelineWorks PMIS 184	Vadodara	ETL, API, Data Mapping
+Project Management Intern (PMIS)	Steer PMIS 185	Nagpur	Project Planning, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	Center PMIS 186	Indore	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	Construct PMIS 187	Dehradun	EVM, Schedule Recovery, Primavera P6
+PMIS Implementation Intern	Enable PMIS 188	Mangalore	Deployment, User Training, Confluence
+PMIS QA Intern	VerifyWorks PMIS 189	Ranchi	QA, Test Plans, Jira
+PMIS Dashboard Intern	ReportLab PMIS 190	Bhubaneswar	Power BI, Dashboards, SQL
+PMIS Automation Intern	FlowAuto PMIS 191	Guwahati	Automation, Python, APIs
+EVM & PMIS Intern	BudgetEdge PMIS 192	Shillong	EVM, Cost Mgmt, MS Project
+PMIS Business Analyst Intern	ProcessLab PMIS 193	Goa	Analysis, BPMN, Requirements
+PMIS Support Intern	ClientFirst PMIS 194	Remote	User Support, Troubleshooting, Docs
+PMIS Data Engineer Intern	DataWorks PMIS 195	Delhi	ETL, Data Pipelines, SQL
+PMIS Testing Intern	QAWorksPro PMIS 196	Mumbai	Test Automation, QA, Jira
+PMIS Configuration Intern	ConfigEdge PMIS 197	Bangalore	System Config, Admin, SharePoint
+PMIS Migration Intern	Transit PMIS 198	Hyderabad	Cutover, Data Reconciliation, ETL
+PMIS & Primavera Intern	TimeLine PMIS 199	Chennai	Primavera P6, Schedule Integration, Risk
+PMIS Power BI Intern	DashboardPro PMIS 200	Pune	Power BI, Reports, DAX
+PMIS Intern	ProjectCore PMIS 201	Kolkata	MS Project, PMO Support, Reporting
+Project Controls Intern	CostFlow PMIS 202	Ahmedabad	Cost Control, EVM, Primavera
+PMIS Reporting Intern	DataPoint PMIS 203	Jaipur	Power BI, Reports, SQL
+PMIS Data Integration Intern	Conflux PMIS 204	Lucknow	ETL, API Integration, Mapping
+Project Management Intern (PMIS)	Orchestrate PMIS 205	Bhopal	Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	Anchor PMIS 206	Patna	PMO Tasks, Reporting, Excel
+Project Controls & PMIS Intern	Foundation PMIS 207	Chandigarh	Schedule Control, EVM, Primavera
+PMIS Implementation Intern	Deliver PMIS 208	Gurgaon	Implementation, Training, Confluence
+PMIS QA Intern	TestLab PMIS 209	Noida	QA, Test Cases, Jira
+PMIS Dashboard Intern	VisualEdge PMIS 210	Kochi	Power BI, Dashboards, SQL
+PMIS Automation Intern	AutoFlow PMIS 211	Thiruvananthapuram	Automation, Python, API
+EVM & PMIS Intern	CostInsight PMIS 212	Surat	EVM, Cost Analysis, MS Project
+PMIS Business Analyst Intern	Reqs PMIS 213	Vadodara	Requirements, BPMN, Documentation
+PMIS Support Intern	SupportWorks PMIS 214	Nagpur	User Support, Training, Documentation
+PMIS Data Engineer Intern	DataForge PMIS 215	Indore	ETL, Data Modeling, SQL
+PMIS Testing Intern	QualityEdge PMIS 216	Dehradun	QA, Automation, Jira
+PMIS Configuration Intern	ConfigLab PMIS 217	Mangalore	System Admin, Config, SharePoint
+PMIS Migration Intern	Move PMIS 218	Ranchi	Migration, Data Reconciliation, ETL
+PMIS & Primavera Intern	Scheduling PMIS 219	Bhubaneswar	Primavera P6, Schedule Control, Risk
+PMIS Power BI Intern	BIWorks PMIS 220	Guwahati	Power BI, Data Modeling, SQL
+PMIS Intern	ProjectLink PMIS 221	Shillong	MS Project, PMO, Reporting
+Project Controls Intern	ControlWorks PMIS 222	Goa	EVM, Cost Tracking, Primavera
+PMIS Reporting Intern	ReportEdge PMIS 223	Remote	Power BI, Reports, SQL
+PMIS Data Integration Intern	SyncLab PMIS 224	Delhi	ETL, API, Data Quality
+Project Management Intern (PMIS)	Coordinate PMIS 225	Mumbai	Project Plans, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	PMOOne PMIS 226	Bangalore	PMO Coordination, Reporting, Excel
+Project Controls & PMIS Intern	ConstructEdge PMIS 227	Hyderabad	Schedule Recovery, EVM, Primavera P6
+PMIS Implementation Intern	Platform PMIS 228	Chennai	Platform Setup, Training, Documentation
+PMIS QA Intern	Assurance PMIS 229	Pune	QA, Testing, Jira
+PMIS Dashboard Intern	DashCore PMIS 230	Kolkata	Power BI, KPI Dashboards, SQL
+PMIS Automation Intern	AutoShift PMIS 231	Ahmedabad	Script Automation, Python, APIs
+EVM & PMIS Intern	Value PMIS 232	Jaipur	EVM, Cost Forecasting, MS Project
+PMIS Business Analyst Intern	Clarify PMIS 233	Lucknow	Process Mapping, Requirements, Excel
+PMIS Support Intern	HelpCore PMIS 234	Bhopal	Support Desk, Documentation, Training
+PMIS Data Engineer Intern	DataBridgeWorks PMIS 235	Patna	ETL, Data Integration, SQL
+PMIS Testing Intern	Validate PMIS 236	Chandigarh	Test Plans, Automation, Jira
+PMIS Configuration Intern	AdminCore PMIS 237	Gurgaon	System Config, Permissions, SharePoint
+PMIS Migration Intern	BridgeMove PMIS 238	Noida	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	SchedPro PMIS 239	Kochi	Primavera P6, Baseline Mgmt, Risk
+PMIS Power BI Intern	ReportLabWorks PMIS 240	Thiruvananthapuram	Power BI, Visuals, SQL
+PMIS Intern	CoreLink PMIS 241	Surat	MS Project, PMO Support, Excel
+Project Controls Intern	Manage PMIS 242	Vadodara	Budgeting, EVM, Primavera P6
+PMIS Reporting Intern	DashPoint PMIS 243	Nagpur	Power BI, Report Dev, SQL
+PMIS Data Integration Intern	Integrate PMIS 244	Indore	API, ETL, Data Mapping
+Project Management Intern (PMIS)	Navigator PMIS 245	Dehradun	Project Coordination, Gantt, Stakeholders
+PMO Analyst Intern	PMOFlow PMIS 246	Mangalore	PMO Tasks, Resource Planning, Excel
+Project Controls & PMIS Intern	ConstructPro PMIS 247	Ranchi	EVM, Schedule Control, Primavera
+PMIS Implementation Intern	Onboard PMIS 248	Bhubaneswar	User Onboarding, Training, Confluence
+PMIS QA Intern	InspectWorks PMIS 249	Guwahati	QA, Test Execution, Jira
+PMIS Dashboard Intern	VisualCore PMIS 250	Shillong	Power BI, Dashboards, DAX
+PMIS Automation Intern	AutoNet PMIS 251	Goa	Automation, Python, API Integration
+EVM & PMIS Intern	CostTrack PMIS 252	Remote	EVM, Cost Tracking, MS Project
+PMIS Business Analyst Intern	ProcessCore PMIS 253	Delhi	Requirements, BPMN, Documentation
+PMIS Support Intern	SupportLink PMIS 254	Mumbai	User Support, Troubleshooting, Docs
+PMIS Data Engineer Intern	DataNet PMIS 255	Bangalore	ETL, Data Pipelines, SQL
+PMIS Testing Intern	QAHub PMIS 256	Hyderabad	Testing, Automation, Jira
+PMIS Configuration Intern	ConfigNet PMIS 257	Chennai	Admin, Config, SharePoint
+PMIS Migration Intern	DataShift PMIS 258	Pune	Migration, ETL, Validation
+PMIS & Primavera Intern	TimeWorks PMIS 259	Kolkata	Primavera P6, Schedule Health, Risk
+PMIS Power BI Intern	BIDesign PMIS 260	Ahmedabad	Power BI, Dashboard Design, SQL
+PMIS Intern	ProjectCraft PMIS 261	Jaipur	MS Project, PMO Reporting, Excel
+Project Controls Intern	CostEdge PMIS 262	Lucknow	Budget Control, EVM, Primavera
+PMIS Reporting Intern	Signal PMIS 263	Bhopal	Power BI, Reports, SQL
+PMIS Data Integration Intern	Conduit PMIS 264	Patna	ETL, API, Data Mapping
+Project Management Intern (PMIS)	GuideWorks PMIS 265	Chandigarh	Coordination, Gantt, Stakeholder Management
+PMO Analyst Intern	PMOConnect PMIS 266	Gurgaon	PMO Admin, Reporting, Excel
+Project Controls & PMIS Intern	ConstructLine PMIS 267	Noida	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	ImplementCore PMIS 268	Kochi	Rollout, Training, Documentation
+PMIS QA Intern	QualityCore PMIS 269	Thiruvananthapuram	QA, Test Cases, Jira
+PMIS Dashboard Intern	DashCraft PMIS 270	Surat	Power BI, Visualization, DAX
+PMIS Automation Intern	AutoWorks PMIS 271	Vadodara	Automation, Python, APIs
+EVM & PMIS Intern	PlanCost PMIS 272	Nagpur	EVM, Cost Mgmt, Forecast
+PMIS Business Analyst Intern	ReqWorks PMIS 273	Indore	Requirements, BPMN, Excel
+PMIS Support Intern	AssistWorks PMIS 274	Dehradun	Support, Documentation, Training
+PMIS Data Engineer Intern	ETLWorks PMIS 275	Mangalore	ETL, SQL, Data Integration
+PMIS Testing Intern	TestWorks PMIS 276	Ranchi	QA, Automation, Jira
+PMIS Configuration Intern	AdminWorksPro PMIS 277	Bhubaneswar	System Config, Roles, Permissions
+PMIS Migration Intern	MoveWorks PMIS 278	Guwahati	Migration Strategy, ETL, Reconciliation
+PMIS & Primavera Intern	SchedWorks PMIS 279	Shillong	Primavera P6, Schedule Mgmt, Risk
+PMIS Power BI Intern	DashWorks PMIS 280	Goa	Power BI, Visuals, SQL
+PMIS Intern	ProjectAxis PMIS 281	Remote	MS Project, PMO Support, Reporting
+Project Controls Intern	ControlCore PMIS 282	Delhi	Cost Control, EVM, Primavera
+PMIS Reporting Intern	Vue PMIS 283	Mumbai	Power BI, Reports, DAX
+PMIS Data Integration Intern	IntegrateWorks PMIS 284	Bangalore	ETL, APIs, Data Mapping
+Project Management Intern (PMIS)	SteerWorks PMIS 285	Hyderabad	Planning, Gantt, Stakeholder Comm.
+PMO Analyst Intern	PMOPrime PMIS 286	Chennai	PMO Management, Reporting, Excel
+Project Controls & PMIS Intern	ConstructPrime PMIS 287	Pune	Schedule Recovery, EVM, Primavera P6
+PMIS Implementation Intern	DeployWorks PMIS 288	Kolkata	Deployment, Training, Confluence
+PMIS QA Intern	TestCore PMIS 289	Ahmedabad	QA, Test Automation, Jira
+PMIS Dashboard Intern	InsightLab PMIS 290	Jaipur	Power BI, Dashboards, SQL
+PMIS Automation Intern	ScriptLab PMIS 291	Lucknow	Scripting, Automation, Python
+EVM & PMIS Intern	ValueWorks PMIS 292	Bhopal	EVM, Forecasting, Cost Control
+PMIS Business Analyst Intern	Clarion PMIS 293	Patna	Process Mapping, Requirements, Excel
+PMIS Support Intern	UserCare PMIS 294	Chandigarh	Support, Documentation, Training
+PMIS Data Engineer Intern	DataSmith PMIS 295	Gurgaon	ETL, Data Warehousing, SQL
+PMIS Testing Intern	QAStudio PMIS 296	Noida	Testing, Automation, Jira
+PMIS Configuration Intern	ConfigStudio PMIS 297	Kochi	Config Management, Admin, SharePoint
+PMIS Migration Intern	ShiftWorks PMIS 298	Thiruvananthapuram	Data Migration, ETL, Validation
+PMIS & Primavera Intern	ChronoWorks PMIS 299	Surat	Primavera P6, Schedule Control, Risk
+PMIS Power BI Intern	DashSmith PMIS 300	Vadodara	Power BI, Reports, SQL
+PMIS Intern	ProjectForge PMIS 301	Nagpur	MS Project, PMO, Reporting
+Project Controls Intern	CostSmith PMIS 302	Indore	EVM, Budgeting, Primavera
+PMIS Reporting Intern	ReportSmith PMIS 303	Dehradun	Power BI, SSRS, SQL
+PMIS Data Integration Intern	FlowWorks PMIS 304	Mangalore	ETL, API, Data Mapping
+Project Management Intern (PMIS)	PilotPrime PMIS 305	Ranchi	Coordination, Gantt, Stakeholder Mgmt
+PMO Analyst Intern	PMODesign PMIS 306	Bhubaneswar	PMO Tasks, Reporting, Excel
+Project Controls & PMIS Intern	ConstructSmith PMIS 307	Guwahati	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	DeployPrime PMIS 308	Shillong	Rollout, Training, Confluence
+PMIS QA Intern	VerifyLab PMIS 309	Goa	QA, Test Execution, Jira
+PMIS Dashboard Intern	DashPrime PMIS 310	Remote	Power BI, Dashboards, DAX
+PMIS Automation Intern	AutoPrime PMIS 311	Delhi	Automation, Python, API Integration
+EVM & PMIS Intern	CostPrime PMIS 312	Mumbai	EVM, Cost Analysis, MS Project
+PMIS Business Analyst Intern	Analyze PMIS 313	Bangalore	Business Analysis, BPMN, Excel
+PMIS Support Intern	SupportPrime PMIS 314	Hyderabad	User Support, Documentation, Training
+PMIS Data Engineer Intern	DataPrime PMIS 315	Chennai	ETL, SQL, Data Integration
+PMIS Testing Intern	QAInsight PMIS 316	Pune	QA Testing, Automation, Jira
+PMIS Configuration Intern	ConfigPrime PMIS 317	Kolkata	System Admin, Configuration, SharePoint
+PMIS Migration Intern	TransitionWorks PMIS 318	Ahmedabad	Migration, ETL, Validation
+PMIS & Primavera Intern	TimePrime PMIS 319	Jaipur	Primavera P6, Scheduling, Risk
+PMIS Power BI Intern	BIPrime PMIS 320	Lucknow	Power BI, Dashboards, SQL
+PMIS Intern	ProjectPrime PMIS 321	Bhopal	MS Project, PMO, Reporting
+Project Controls Intern	ControlPrime PMIS 322	Patna	EVM, Cost Control, Primavera
+PMIS Reporting Intern	ReportPrime PMIS 323	Chandigarh	Power BI, Reporting, DAX
+PMIS Data Integration Intern	IntegratePrime PMIS 324	Gurgaon	API, ETL, Data Mapping
+Project Management Intern (PMIS)	SteerPrime PMIS 325	Noida	Project Coordination, Gantt, Stakeholder Mgmt
+PMO Analyst Intern	PMOCenter PMIS 326	Kochi	PMO Administration, Reporting, Excel
+Project Controls & PMIS Intern	ConstructCenter PMIS 327	Thiruvananthapuram	Schedule Mgmt, EVM, Primavera
+PMIS Implementation Intern	ImplementPrime PMIS 328	Surat	Setup, Training, Confluence
+PMIS QA Intern	AssurePrime PMIS 329	Vadodara	QA, Test Plans, Jira
+PMIS Dashboard Intern	DashCenter PMIS 330	Nagpur	Power BI, Dashboards, SQL
+PMIS Automation Intern	AutoCenter PMIS 331	Indore	Automation, Python, API
+EVM & PMIS Intern	CostCenter PMIS 332	Dehradun	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	ProcessCenter PMIS 333	Mangalore	Requirements, BPMN, Documentation
+PMIS Support Intern	HelpCenter PMIS 334	Ranchi	Support Desk, Training, Documentation
+PMIS Data Engineer Intern	DataCenter PMIS 335	Bhubaneswar	ETL, Data Pipelines, SQL
+PMIS Testing Intern	QA Center PMIS 336	Guwahati	Testing, Automation, Jira
+PMIS Configuration Intern	ConfigCenter PMIS 337	Shillong	Config, Admin, SharePoint
+PMIS Migration Intern	ShiftCenter PMIS 338	Goa	Data Migration, ETL, Validation
+PMIS & Primavera Intern	SchedulerPrime PMIS 339	Remote	Primavera P6, Scheduling, Risk Management
+PMIS Power BI Intern	BI Center PMIS 340	Delhi	Power BI, Dashboard Design, SQL
+PMIS Intern	ProjectCorePrime PMIS 341	Mumbai	MS Project, Reporting, PMO Support
+Project Controls Intern	CostCorePrime PMIS 342	Bangalore	EVM, Budget Tracking, Primavera
+PMIS Reporting Intern	ReportCore PMIS 343	Hyderabad	Power BI, Reporting, DAX
+PMIS Data Integration Intern	SyncPrime PMIS 344	Chennai	ETL, API Integration, Data Mapping
+Project Management Intern (PMIS)	OrchestratePrime PMIS 345	Pune	Project Plans, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	AnchorPrime PMIS 346	Kolkata	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	BuilderPrime PMIS 347	Ahmedabad	Schedule Recovery, EVM, Primavera
+PMIS Implementation Intern	PlatformPrime PMIS 348	Jaipur	Implementation, Training, Documentation
+PMIS QA Intern	QualityPrime PMIS 349	Lucknow	QA, Test Cases, Jira
+PMIS Dashboard Intern	DashLab PMIS 350	Bhopal	Power BI, Dashboards, SQL
+PMIS Automation Intern	AutoLab PMIS 351	Patna	Automation, Python, APIs
+EVM & PMIS Intern	ValueLab PMIS 352	Chandigarh	EVM, Cost Mgmt, Forecasting
+PMIS Business Analyst Intern	ClarifyWorks PMIS 353	Gurgaon	Analysis, BPMN, Requirements
+PMIS Support Intern	UserFirst PMIS 354	Noida	Support, Troubleshooting, Documentation
+PMIS Data Engineer Intern	DataBridgePrime PMIS 355	Kochi	ETL, Data Warehousing, SQL
+PMIS Testing Intern	QAWorksLab PMIS 356	Thiruvananthapuram	Testing, Automation, Jira
+PMIS Configuration Intern	ConfigWorksPrime PMIS 357	Surat	System Admin, Config, SharePoint
+PMIS Migration Intern	MovePrime PMIS 358	Vadodara	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	ChronoPrime PMIS 359	Nagpur	Primavera P6, Baseline Mgmt, Risk
+PMIS Power BI Intern	DashPrimeLab PMIS 360	Indore	Power BI, Visuals, SQL
+PMIS Intern	ProjectLinkPrime PMIS 361	Dehradun	MS Project, PMO Support, Reporting
+Project Controls Intern	ControlPrimeLab PMIS 362	Mangalore	EVM, Budgeting, Primavera
+PMIS Reporting Intern	SignalPrime PMIS 363	Ranchi	Power BI, Report Dev, SQL
+PMIS Data Integration Intern	ConduitPrime PMIS 364	Bhubaneswar	ETL, API, Data Mapping
+Project Management Intern (PMIS)	GuidePrime PMIS 365	Guwahati	Coordination, Gantt, Stakeholder Mgmt
+PMO Analyst Intern	PMOBridge PMIS 366	Shillong	PMO Admin, Reporting, Excel
+Project Controls & PMIS Intern	ConstructPrimeLab PMIS 367	Goa	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	DeployPrimeLab PMIS 368	Remote	User Training, Rollout, Documentation
+PMIS QA Intern	VerifyPrime PMIS 369	Delhi	QA, Test Execution, Jira
+PMIS Dashboard Intern	InsightPrime PMIS 370	Mumbai	Power BI, Dashboards, DAX
+PMIS Automation Intern	AutoPrimeLab PMIS 371	Bangalore	Automation, Python, APIs
+EVM & PMIS Intern	CostPrimeLab PMIS 372	Hyderabad	EVM, Forecasting, Cost Mgmt
+PMIS Business Analyst Intern	AnalyzePrime PMIS 373	Chennai	Business Analysis, BPMN, Excel
+PMIS Support Intern	SupportPrimeLab PMIS 374	Pune	Support Desk, Documentation, Training
+PMIS Data Engineer Intern	DataPrimeLab PMIS 375	Kolkata	ETL, Data Integration, SQL
+PMIS Testing Intern	QAInsightPrime PMIS 376	Ahmedabad	QA, Test Automation, Jira
+PMIS Configuration Intern	ConfigPrimeLab PMIS 377	Jaipur	Config Management, Admin, SharePoint
+PMIS Migration Intern	TransitPrime PMIS 378	Lucknow	Migration, ETL, Validation
+PMIS & Primavera Intern	TimePrimeLab PMIS 379	Bhopal	Primavera P6, Schedule Mgmt, Risk
+PMIS Power BI Intern	BIPulse PMIS 380	Patna	Power BI, Dashboards, SQL
+PMIS Intern	ProjectPulsePrime PMIS 381	Chandigarh	MS Project, PMO Support, Reporting
+Project Controls Intern	CapitalPrime PMIS 382	Gurgaon	Cost Reporting, EVM, Primavera
+PMIS Reporting Intern	ClarityPrime PMIS 383	Noida	Power BI, Reporting, DAX
+PMIS Data Integration Intern	PipelinePrime PMIS 384	Kochi	ETL, API, Data Mapping
+Project Management Intern (PMIS)	SteerPrimeLab PMIS 385	Thiruvananthapuram	Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	CenterPrime PMIS 386	Surat	PMO Admin, Resource Planning, Excel
+Project Controls & PMIS Intern	ConstructPrimeCore PMIS 387	Vadodara	Schedule Mgmt, EVM, Primavera
+PMIS Implementation Intern	OnboardPrime PMIS 388	Nagpur	User Onboarding, Training, Confluence
+PMIS QA Intern	InspectPrime PMIS 389	Indore	QA, Test Plans, Jira
+PMIS Dashboard Intern	ReportPrimeLab PMIS 390	Dehradun	Power BI, Dashboards, SQL
+PMIS Automation Intern	FlowAutoPrime PMIS 391	Mangalore	Automation, Python, API
+EVM & PMIS Intern	BudgetPrime PMIS 392	Ranchi	EVM, Cost Mgmt, Forecast
+PMIS Business Analyst Intern	ProcessPrime PMIS 393	Bhubaneswar	Requirements, BPMN, Documentation
+PMIS Support Intern	HelpPrime PMIS 394	Guwahati	Support Desk, Training, Docs
+PMIS Data Engineer Intern	CoreDataPrime PMIS 395	Shillong	ETL, Data Modeling, SQL
+PMIS Testing Intern	CheckPrime PMIS 396	Goa	Testing, QA, Jira
+PMIS Configuration Intern	SetUpPrime PMIS 397	Remote	Config, Admin, SharePoint
+PMIS Migration Intern	RelocatePrime PMIS 398	Delhi	Data Migration, ETL, Validation
+PMIS & Primavera Intern	ChronoPrimeLab PMIS 399	Mumbai	Primavera P6, Schedule Analysis, Risk
+PMIS Power BI Intern	RevealPrime PMIS 400	Bangalore	Power BI, Reports, SQL
+PMIS Intern	NimblePrime PMIS 401	Hyderabad	MS Project, PMO Assistance, Excel
+Project Controls Intern	VectorPrimeLab PMIS 402	Chennai	Cost Control, EVM, Primavera
+PMIS Reporting Intern	ClearViewPrime PMIS 403	Pune	Power BI, Report Automation, DAX
+PMIS Data Integration Intern	BridgeWorksPrime PMIS 404	Kolkata	ETL, API, Data Mapping
+Project Management Intern (PMIS)	HarborPointPrime PMIS 405	Ahmedabad	Project Plans, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	AlignWorksPrime PMIS 406	Jaipur	Resource Planning, Reporting, Excel
+Project Controls & PMIS Intern	NorthStarPrime PMIS 407	Lucknow	Schedule Risk, EVM, Primavera P6
+PMIS Implementation Intern	SolsticePrime PMIS 408	Bhopal	Deployment, User Training, Confluence
+PMIS QA Intern	NavigatorPrime PMIS 409	Patna	QA Processes, Test Cases, Jira
+PMIS Dashboard Intern	CrestPrime PMIS 410	Chandigarh	Power BI, Dashboard Design, SQL
+PMIS Automation Intern	VertexPrime PMIS 411	Gurgaon	Automation, Scripting, API
+EVM & PMIS Intern	HarborPrime PMIS 412	Noida	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	BridgePrime PMIS 413	Kochi	Process Mapping, Requirements, Excel
+PMIS Support Intern	PulsePrime PMIS 414	Thiruvananthapuram	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasWorksPrime PMIS 415	Surat	Data Pipelines, ETL, SQL
+PMIS Testing Intern	CorePrime PMIS 416	Vadodara	System Testing, Automation, Jira
+PMIS Configuration Intern	OrbitPrime PMIS 417	Nagpur	Customization, Admin, SharePoint
+PMIS Migration Intern	VectorWorksPrime PMIS 418	Indore	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	HorizonPrime PMIS 419	Dehradun	Primavera P6, Scheduling, Baseline Management
+PMIS Power BI Intern	ClarityPrimeLab PMIS 420	Mangalore	Power BI, Visualization, SQL
+PMIS Intern	ElementPrime PMIS 421	Ranchi	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitEdgePrime PMIS 422	Bhubaneswar	Cost Management, EVM, Reporting
+PMIS Reporting Intern	NucleusPrime PMIS 423	Guwahati	Power BI, SQL, Report Development
+PMIS Data Integration Intern	ConvergePrime PMIS 424	Shillong	API Integration, ETL, Data Mapping
+Project Management Intern (PMIS)	BeaconPrime PMIS 425	Goa	Project Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	VectorPrimeWorks PMIS 426	Remote	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	TerraPrime PMIS 427	Delhi	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	NovaPrime PMIS 428	Mumbai	Rollout, Training, Confluence
+PMIS QA Intern	PortalPrime PMIS 429	Bangalore	QA Testing, Bug Tracking, Jira
+PMIS Dashboard Intern	VectorDataPrime PMIS 430	Hyderabad	Power BI, Dashboard Maintenance, SQL
+PMIS Automation Intern	StreamPrime PMIS 431	Chennai	Automation, Python, API
+EVM & PMIS Intern	ElementWorksPrime PMIS 432	Pune	EVM, Cost Analysis, MS Project
+PMIS Business Analyst Intern	SpectrumPrime PMIS 433	Kolkata	Process Design, Documentation, Excel
+PMIS Support Intern	HelpPMISPrime PMIS 434	Ahmedabad	Client Support, Training, Knowledge Base
+PMIS Data Engineer Intern	DataBridgePrimeLab PMIS 435	Jaipur	ETL, Data Modeling, SQL
+PMIS Testing Intern	AlphaPrime PMIS 436	Lucknow	Test Automation, QA, Jira
+PMIS Configuration Intern	BlueCorePrime PMIS 437	Bhopal	Configuration, Admin Tasks, SharePoint
+PMIS Migration Intern	PrimeWorksLab PMIS 438	Patna	Migration Strategy, ETL, Validation
+PMIS & Primavera Intern	ProjectGridPrime PMIS 439	Chandigarh	Primavera P6, Schedule Optimization, Risk
+PMIS Power BI Intern	InsightPrimeLab PMIS 440	Gurgaon	Power BI, DAX, Visualization
+PMIS Intern	AxisPrime PMIS 441	Noida	MS Project, Reporting, PMO Support
+Project Controls Intern	LayerPrime PMIS 442	Kochi	Budgeting, EVM, Primavera
+PMIS Reporting Intern	CascadePrime PMIS 443	Thiruvananthapuram	SSRS, Power BI, SQL
+PMIS Data Integration Intern	FlowPrime PMIS 444	Surat	ETL Tools, APIs, Data Quality
+Project Management Intern (PMIS)	HarborEdgePrime PMIS 445	Vadodara	Project Planning, Communication, Gantt
+PMO Analyst Intern	OrbitWorksPrime PMIS 446	Nagpur	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorks PMIS 447	Indore	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	SolsticeWorks PMIS 448	Dehradun	Deployment, User Training, Confluence
+PMIS QA Intern	NavigatorWorks PMIS 449	Mangalore	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	CrestWorks PMIS 450	Ranchi	Power BI, Dashboard Design, SQL
+PMIS Automation Intern	VertexWorks PMIS 451	Bhubaneswar	Scripting, Python, API Integration
+EVM & PMIS Intern	HarborWorks PMIS 452	Guwahati	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	BridgeWorksPrime PMIS 453	Shillong	Process Mapping, Requirements, Excel
+PMIS Support Intern	PulseWorks PMIS 454	Goa	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasPrime PMIS 455	Remote	Data Pipelines, SQL, ETL
+PMIS Testing Intern	CoreWorksPrime PMIS 456	Delhi	System Testing, Automation, Jira
+PMIS Configuration Intern	OrbitWorksPrime PMIS 457	Mumbai	Customization, Config, SharePoint
+PMIS Migration Intern	VectorPrimeWorks PMIS 458	Bangalore	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	HorizonWorks PMIS 459	Hyderabad	Primavera P6, Scheduling, Baseline Mgmt
+PMIS Power BI Intern	ClarityWorksPrime PMIS 460	Chennai	Power BI, Visualization, SQL
+PMIS Intern	ElementWorksPrime PMIS 461	Pune	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitPrime PMIS 462	Kolkata	Cost Control, EVM, Reporting
+PMIS Reporting Intern	NucleusWorks PMIS 463	Ahmedabad	Power BI, SQL, Report Automation
+PMIS Data Integration Intern	ConvergeWorks PMIS 464	Jaipur	API Integration, ETL, Data Mapping
+Project Management Intern (PMIS)	BeaconWorks PMIS 465	Lucknow	Project Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	VectorWorksPrime PMIS 466	Bhopal	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	TerraPrimeLab PMIS 467	Patna	Schedule Risk, EVM, Primavera P6
+PMIS Implementation Intern	NovaWorks PMIS 468	Chandigarh	Rollout, Training, Confluence
+PMIS QA Intern	PortalWorks PMIS 469	Gurgaon	QA Processes, Test Cases, Jira
+PMIS Dashboard Intern	VectorDataWorks PMIS 470	Noida	Power BI, Dashboard Maintenance, SQL
+PMIS Automation Intern	StreamWorks PMIS 471	Kochi	Automation Scripts, Python, API
+EVM & PMIS Intern	ElementPrimeLab PMIS 472	Thiruvananthapuram	EVM, Cost Forecasting, MS Project
+PMIS Business Analyst Intern	SpectrumWorks PMIS 473	Surat	Process Design, Documentation, Excel
+PMIS Support Intern	HelpPMISWorks PMIS 474	Vadodara	Client Support, Training, Knowledge Base
+PMIS Data Engineer Intern	DataBridgeWorksPrime PMIS 475	Nagpur	ETL, Data Modeling, SQL
+PMIS Testing Intern	AlphaWorks PMIS 476	Indore	Test Automation, QA, Jira
+PMIS Configuration Intern	BlueCoreWorks PMIS 477	Dehradun	Configuration, Admin Tasks, SharePoint
+PMIS Migration Intern	PrimeWorksCenter PMIS 478	Mangalore	Migration Strategy, ETL, Validation
+PMIS & Primavera Intern	ProjectGridWorks PMIS 479	Ranchi	Primavera P6, Schedule Optimization, Risk
+PMIS Power BI Intern	InsightWorksPrime PMIS 480	Bhubaneswar	Power BI, DAX, Visualization
+PMIS Intern	AxisWorks PMIS 481	Guwahati	MS Project, Reporting, PMO Support
+Project Controls Intern	LayerWorks PMIS 482	Shillong	Budgeting, EVM, Primavera
+PMIS Reporting Intern	CascadeWorks PMIS 483	Goa	SSRS, Power BI, SQL
+PMIS Data Integration Intern	FlowWorksPrime PMIS 484	Remote	ETL Tools, APIs, Data Quality
+Project Management Intern (PMIS)	HarborEdgeWorks PMIS 485	Delhi	Project Planning, Communication, Gantt
+PMO Analyst Intern	OrbitWorksCenter PMIS 486	Mumbai	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorksPrime PMIS 487	Bangalore	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	SolsticeWorksPrime PMIS 488	Hyderabad	Deployment, User Training, Confluence
+PMIS QA Intern	NavigatorWorksPrime PMIS 489	Chennai	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	CrestWorksPrime PMIS 490	Pune	Power BI, Dashboard Design, SQL
+PMIS Automation Intern	VertexWorksPrime PMIS 491	Kolkata	Scripting, Python, API Integration
+EVM & PMIS Intern	HarborWorksPrime PMIS 492	Ahmedabad	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	BridgeWorksCenter PMIS 493	Jaipur	Process Mapping, Requirements, Excel
+PMIS Support Intern	PulseWorksPrime PMIS 494	Lucknow	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasWorksCenter PMIS 495	Bhopal	Data Pipelines, ETL, SQL
+PMIS Testing Intern	CoreWorksCenter PMIS 496	Patna	System Testing, Automation, Jira
+PMIS Configuration Intern	OrbitWorksCenter PMIS 497	Chandigarh	Customization, Config, SharePoint
+PMIS Migration Intern	VectorWorksCenter PMIS 498	Gurgaon	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	HorizonWorksCenter PMIS 499	Noida	Primavera P6, Scheduling, Baseline Mgmt
+PMIS Power BI Intern	ClarityWorksCenter PMIS 500	Kochi	Power BI, Visualization, SQL
+PMIS Intern	ElementWorksCenter PMIS 501	Thiruvananthapuram	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitWorksCenter PMIS 502	Surat	Cost Control, EVM, Reporting
+PMIS Reporting Intern	NucleusWorksCenter PMIS 503	Vadodara	Power BI, SQL, Report Automation
+PMIS Data Integration Intern	ConvergeWorksCenter PMIS 504	Nagpur	API Integration, ETL, Data Mapping
+Project Management Intern (PMIS)	BeaconWorksCenter PMIS 505	Indore	Project Planning, Stakeholder Comm., Gantt
+PMO Analyst Intern	VectorWorksCenterPrime PMIS 506	Dehradun	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorksCenter PMIS 507	Mangalore	Schedule Risk, EVM, Primavera P6
+PMIS Implementation Intern	NovaWorksCenter PMIS 508	Ranchi	Rollout, Training, Confluence
+PMIS QA Intern	PortalWorksCenter PMIS 509	Bhubaneswar	QA Processes, Test Cases, Jira
+PMIS Dashboard Intern	VectorDataWorksCenter PMIS 510	Guwahati	Power BI, Dashboard Maintenance, SQL
+PMIS Automation Intern	StreamWorksCenter PMIS 511	Shillong	Automation Scripts, Python, API
+EVM & PMIS Intern	ElementWorksCenter PMIS 512	Goa	EVM, Cost Forecasting, MS Project
+PMIS Business Analyst Intern	SpectrumWorksCenter PMIS 513	Remote	Process Design, Documentation, Excel
+PMIS Support Intern	HelpPMISWorksCenter PMIS 514	Delhi	Client Support, Training, Knowledge Base
+PMIS Data Engineer Intern	DataBridgeWorksCenter PMIS 515	Mumbai	ETL, Data Modeling, SQL
+PMIS Testing Intern	AlphaWorksCenter PMIS 516	Bangalore	Test Automation, QA, Jira
+PMIS Configuration Intern	BlueCoreWorksCenter PMIS 517	Hyderabad	Configuration, Admin Tasks, SharePoint
+PMIS Migration Intern	PrimeWorksCenterLab PMIS 518	Chennai	Migration Strategy, ETL, Validation
+PMIS & Primavera Intern	ProjectGridWorksCenter PMIS 519	Pune	Primavera P6, Schedule Optimization, Risk
+PMIS Power BI Intern	InsightWorksCenter PMIS 520	Kolkata	Power BI, DAX, Visualization
+PMIS Intern	AxisWorksCenter PMIS 521	Ahmedabad	MS Project, Reporting, PMO Support
+Project Controls Intern	LayerWorksCenter PMIS 522	Jaipur	Budgeting, EVM, Primavera
+PMIS Reporting Intern	CascadeWorksCenter PMIS 523	Lucknow	SSRS, Power BI, SQL
+PMIS Data Integration Intern	FlowWorksCenter PMIS 524	Bhopal	ETL Tools, APIs, Data Quality
+Project Management Intern (PMIS)	HarborEdgeWorksCenter PMIS 525	Patna	Project Planning, Communication, Gantt
+PMO Analyst Intern	OrbitWorksCenterPrime PMIS 526	Chandigarh	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorksCenterPrime PMIS 527	Gurgaon	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	SolsticeWorksCenter PMIS 528	Noida	Deployment, User Training, Confluence
+PMIS QA Intern	NavigatorWorksCenterPrime PMIS 529	Kochi	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	CrestWorksCenterPrime PMIS 530	Thiruvananthapuram	Power BI, Dashboard Design, SQL
+PMIS Automation Intern	VertexWorksCenterPrime PMIS 531	Surat	Scripting, Python, API Integration
+EVM & PMIS Intern	HarborWorksCenterPrime PMIS 532	Vadodara	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	BridgeWorksCenterPrime PMIS 533	Nagpur	Process Mapping, Requirements, Excel
+PMIS Support Intern	PulseWorksCenterPrime PMIS 534	Indore	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasWorksCenterPrime PMIS 535	Dehradun	Data Pipelines, ETL, SQL
+PMIS Testing Intern	CoreWorksCenterPrime PMIS 536	Mangalore	System Testing, Automation, Jira
+PMIS Configuration Intern	OrbitWorksCenterPrime PMIS 537	Ranchi	Customization, Config, SharePoint
+PMIS Migration Intern	VectorWorksCenterPrime PMIS 538	Bhubaneswar	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	HorizonWorksCenterPrime PMIS 539	Guwahati	Primavera P6, Scheduling, Baseline Mgmt
+PMIS Power BI Intern	ClarityWorksCenterPrime PMIS 540	Shillong	Power BI, Visualization, SQL
+PMIS Intern	ElementWorksCenterPrime PMIS 541	Goa	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitWorksCenterPrime PMIS 542	Remote	Cost Control, EVM, Reporting
+PMIS Reporting Intern	NucleusWorksCenterPrime PMIS 543	Delhi	Power BI, SQL, Report Automation
+PMIS Data Integration Intern	ConvergeWorksCenterPrime PMIS 544	Mumbai	API Integration, ETL, Data Mapping
+Project Management Intern (PMIS)	BeaconWorksCenterPrime PMIS 545	Bangalore	Project Planning, Stakeholder Mgmt, Gantt
+PMO Analyst Intern	VectorWorksCenterPrimeLab PMIS 546	Hyderabad	Resource Scheduling, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorksCenterPrimeLab PMIS 547	Chennai	Schedule Risk, EVM, Primavera P6
+PMIS Implementation Intern	NovaWorksCenterPrime PMIS 548	Pune	Rollout, Training, Confluence
+PMIS QA Intern	PortalWorksCenterPrime PMIS 549	Kolkata	QA Processes, Test Cases, Jira
+PMIS Dashboard Intern	VectorDataWorksCenterPrime PMIS 550	Ahmedabad	Power BI, Dashboard Maintenance, SQL
+PMIS Automation Intern	StreamWorksCenterPrime PMIS 551	Jaipur	Automation Scripts, Python, API
+EVM & PMIS Intern	ElementWorksCenterPrime PMIS 552	Lucknow	EVM, Cost Forecasting, MS Project
+PMIS Business Analyst Intern	SpectrumWorksCenterPrime PMIS 553	Bhopal	Process Design, Documentation, Excel
+PMIS Support Intern	HelpPMISWorksCenterPrime PMIS 554	Patna	Client Support, Training, Knowledge Base
+PMIS Data Engineer Intern	DataBridgeWorksCenterPrime PMIS 555	Chandigarh	ETL, Data Modeling, SQL
+PMIS Testing Intern	AlphaWorksCenterPrime PMIS 556	Gurgaon	Test Automation, QA, Jira
+PMIS Configuration Intern	BlueCoreWorksCenterPrime PMIS 557	Noida	Configuration, Admin Tasks, SharePoint
+PMIS Migration Intern	PrimeWorksCenterLabPrime PMIS 558	Kochi	Migration Strategy, ETL, Validation
+PMIS & Primavera Intern	ProjectGridWorksCenterPrime PMIS 559	Thiruvananthapuram	Primavera P6, Schedule Optimization, Risk
+PMIS Power BI Intern	InsightWorksCenterPrime PMIS 560	Surat	Power BI, DAX, Visualization
+PMIS Intern	AxisWorksCenterPrime PMIS 561	Vadodara	MS Project, Reporting, PMO Support
+Project Controls Intern	LayerWorksCenterPrime PMIS 562	Nagpur	Budgeting, EVM, Primavera
+PMIS Reporting Intern	CascadeWorksCenterPrime PMIS 563	Indore	SSRS, Power BI, SQL
+PMIS Data Integration Intern	FlowWorksCenterPrime PMIS 564	Dehradun	ETL Tools, APIs, Data Quality
+Project Management Intern (PMIS)	HarborEdgeWorksCenterPrime PMIS 565	Mangalore	Project Planning, Communication, Gantt
+PMO Analyst Intern	OrbitWorksCenterPrimeLab PMIS 566	Ranchi	PMO Processes, Reporting, Excel
+Project Controls & PMIS Intern	TerraWorksCenterPrimeLab PMIS 567	Bhubaneswar	Schedule Control, EVM, Primavera P6
+PMIS Implementation Intern	SolsticeWorksCenterPrime PMIS 568	Guwahati	Deployment, User Training, Confluence
+PMIS QA Intern	NavigatorWorksCenterPrimeLab PMIS 569	Shillong	Quality Assurance, Test Cases, Jira
+PMIS Dashboard Intern	CrestWorksCenterPrimeLab PMIS 570	Goa	Power BI, Dashboard Design, SQL
+PMIS Automation Intern	VertexWorksCenterPrimeLab PMIS 571	Remote	Scripting, Python, API Integration
+EVM & PMIS Intern	HarborWorksCenterPrimeLab PMIS 572	Delhi	EVM, Forecasting, Cost Management
+PMIS Business Analyst Intern	BridgeWorksCenterPrimeLab PMIS 573	Mumbai	Process Mapping, Requirements, Excel
+PMIS Support Intern	PulseWorksCenterPrimeLab PMIS 574	Bangalore	Helpdesk, Troubleshooting, Documentation
+PMIS Data Engineer Intern	AtlasWorksCenterPrimeLab PMIS 575	Hyderabad	Data Pipelines, ETL, SQL
+PMIS Testing Intern	CoreWorksCenterPrimeLab PMIS 576	Chennai	System Testing, Automation, Jira
+PMIS Configuration Intern	OrbitWorksCenterPrimeLab PMIS 577	Pune	Customization, Config, SharePoint
+PMIS Migration Intern	VectorWorksCenterPrimeLab PMIS 578	Kolkata	Migration Planning, ETL, Validation
+PMIS & Primavera Intern	HorizonWorksCenterPrimeLab PMIS 579	Ahmedabad	Primavera P6, Scheduling, Baseline Mgmt
+PMIS Power BI Intern	ClarityWorksCenterPrimeLab PMIS 580	Jaipur	Power BI, Visualization, SQL
+PMIS Intern	ElementWorksCenterPrimeLab PMIS 581	Lucknow	MS Project, PMO Reporting, Excel
+Project Controls Intern	SummitWorksCenterPrimeLab PMIS 582	Bhopal	Cost Control, EVM, Reporting
+PMIS Reporting Intern	NucleusWorksCenterPrimeLab PMIS 583	Patna	Power BI, SQL, Report Automation
+PMIS Data Integration Intern	ConvergeWorksCenterPrimeLab PMIS 584	Chandigarh	API Integration, ETL, Data Mapping  i have another this verify itss also
