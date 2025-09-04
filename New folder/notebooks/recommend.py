@@ -1,9 +1,14 @@
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import os
 
+# ...existing code...
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+csv_path = os.path.join(base_dir, "data", "internships.csv")
+internships = pd.read_csv(csv_path, sep="\t")
 # Load internships with proper separator and handle missing values
-internships = pd.read_csv("data/internships.csv", sep="\t")
+#internships = pd.read_csv("data/internships.csv", sep="\t")
 for col in ["title", "organization", "location", "requirements"]:
     if col not in internships.columns:
         internships[col] = ""
