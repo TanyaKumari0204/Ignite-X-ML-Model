@@ -22,6 +22,10 @@ class CandidateRequest(BaseModel):
     mode: Optional[str] = ""               # e.g. "Onsite" or "Remote"
     min_stipend: Optional[float] = None
     max_duration_weeks: Optional[int] = None
+    # Additional filter parameters
+    domain: Optional[str] = None
+    education_level: Optional[str] = None
+    max_stipend: Optional[float] = None
     top_n: int = 5
 
 @app.get("/")
