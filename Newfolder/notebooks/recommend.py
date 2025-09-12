@@ -94,6 +94,9 @@ def recommend_for_candidate(candidate: dict, top_n: int = 5):
         - mode (str)              e.g. "Onsite", "Remote"
         - min_stipend (int)       optional numeric filter
         - max_duration_weeks (int) optional numeric filter
+        - domain (str)            optional domain filter
+        - education_level (str)   optional education level filter
+        - max_stipend (float)     optional max stipend filter
     Returns: list of top_n recommendation dicts.
     """
     # Build candidate text profile
@@ -150,6 +153,42 @@ def recommend_for_candidate(candidate: dict, top_n: int = 5):
                 results = results[mask_dur]
         except Exception:
             pass
+
+    # max stipend filter
+    max_stipend = candidate.get("max_stipend")
+    if max_stipend is not None and max_stipend != "":
+        try:
+            max_stipend = float(max_stipend)
+            stipend_vals = results["stipend_per_month"].fillna(0)
+            mask_max_stipend = stipend_vals <= max_stipend
+            if mask_max_stipend.any():
+                results = results[mask_max_stipend]
+        except Exception:
+            pass
+
+    # domain filter (if provided)
+    domain_pref = (candidate.get("domain") or "").strip().lower()
+    if domain_pref:
+        # Check if domain appears in title, organization, or description
+        domain_mask = (
+            results["title"].astype(str).str.lower().str.contains(domain_pref) |
+            results["organization"].astype(str).str.lower().str.contains(domain_pref) |
+            results["description"].astype(str).str.lower().str.contains(domain_pref)
+        )
+        if domain_mask.any():
+            results = results[domain_mask]
+
+    # education level filter (if provided)
+    education_level = (candidate.get("education_level") or "").strip().lower()
+    if education_level and education_level != "any":
+        # Check if education level appears in requirements or description
+        edu_mask = (
+            results["requirements"].astype(str).str.lower().str.contains(education_level) |
+            results["description"].astype(str).str.lower().str.contains(education_level) |
+            results["all_requirements"].astype(str).str.lower().str.contains(education_level)
+        )
+        if edu_mask.any():
+            results = results[edu_mask]
 
     # Boost score slightly for location match
     pref_loc = (candidate.get("preferred_location") or "").strip().lower()
