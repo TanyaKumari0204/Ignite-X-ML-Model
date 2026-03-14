@@ -52,19 +52,6 @@ graph LR
 * **Fuzzy Fallback Matching**: If semantic overlap (TF-IDF) scores fall below 20%, an intelligent lexical token fallback automatically intercepts and ranks jobs by discrete skill overlap—never leaving a user stranded.
 * **Adaptive Filtering Pipeline**: Pre-filters noise by applying hard bounds like `max_duration_weeks`, `min_stipend`, or `mode` exclusively *after* generating relevance scores to retain deterministic fairness.
 
-## 📸 Platform Previews
-
-Recruiters love visual proof. Here is a glimpse into the Ignite-X ecosystem:
-
-### Homepage
-![Homepage Overview](/docs/images/homepage.png)
-
-### Candidate Dashboard
-![Dashboard Analytics](/docs/images/dashboard.png)
-
-### Product Page
-![Internship Product Page](/docs/images/product-page.png)
-
 ## 🏎️ Performance
 
 To maintain a sub-200ms latency globally, the wider platform implements strict optimizations:
