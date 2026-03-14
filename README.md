@@ -115,18 +115,3 @@ Returns the `top_n` most relevant internships natively scored against the candid
 }
 ```
 
-## ☁️ Deployment Guide
-
-This model sits cleanly within the stateless constraints of major cloud edge providers. Zero Dockerfiles, zero clusters. Below is the automated deployment flow:
-
-1. Install Vercel CLI: `npm i -g vercel`
-2. Navigate to `/Newfolder`
-3. Run `vercel`
-
-Vercel reads `vercel.json` natively, spins up an Amazon Linux instance with Python, resolves `requirements.txt`, and binds `@vercel/python` routing directly to our `app` instance in `api.py`. It's that simple. 
-
----
-<div align="center">
-<b>Built for the Future of Work.</b><br>
-<sub>© 2026 Ignite-X Platform</sub>
-</div>
